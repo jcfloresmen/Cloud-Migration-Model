@@ -5,7 +5,7 @@ This article presents a literature review on cloud migration models applied to d
 
 
 ## 📚 Documentation
-- [Full article (PDF)](docs/A Literature Review Cloud Migration Model for Data Processing.pdf)
+- [Full article (PDF)](docs/Cloud-Migration-Model.pdf)
 
 ## 🛠 Technologies
 - Cloud Computing
